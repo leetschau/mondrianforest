@@ -4,5 +4,5 @@ process_data/dna-61-120/dna-61-120*
 process_data/letter/letter*
 process_data/satimage/satimage*
 process_data/usps/usps*
-.env
 src/results/*
+.env*/
